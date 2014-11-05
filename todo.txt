@@ -1,0 +1,7 @@
+# Create changelog
+# Separate rulebook
+# Store drafts of old cards
+# Sort suits
+# Recommit once set up
+# Separate playtest feedback
+# Adjustment cards to support Chi (Yin and Yang) as costs; massive rebalancing.
